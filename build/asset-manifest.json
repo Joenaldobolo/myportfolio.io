@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Joenaldobolo/myportfolio.io/static/css/main.8b10fcac.css",
-    "main.js": "/Joenaldobolo/myportfolio.io/static/js/main.daf49a3c.js",
-    "static/js/453.77165de5.chunk.js": "/Joenaldobolo/myportfolio.io/static/js/453.77165de5.chunk.js",
-    "static/media/web.png": "/Joenaldobolo/myportfolio.io/static/media/web.5572d68403982130ea6a.png",
-    "static/media/bootstrap.png": "/Joenaldobolo/myportfolio.io/static/media/bootstrap.4db6b405c36ee9e98d15.png",
-    "static/media/js.png": "/Joenaldobolo/myportfolio.io/static/media/js.f7f5c440b14b73155eac.png",
-    "static/media/html5.png": "/Joenaldobolo/myportfolio.io/static/media/html5.f209ef62cf88c3272c73.png",
-    "static/media/css.png": "/Joenaldobolo/myportfolio.io/static/media/css.a3d2689f7e336d5d5359.png",
-    "static/media/profile.jpg": "/Joenaldobolo/myportfolio.io/static/media/profile.6c845b802480ca4c2531.jpg",
-    "static/media/php.png": "/Joenaldobolo/myportfolio.io/static/media/php.aed5cee0fe1995e37800.png",
-    "static/media/react.png": "/Joenaldobolo/myportfolio.io/static/media/react.ecd6f7ba6828832928f6.png",
-    "index.html": "/Joenaldobolo/myportfolio.io/index.html",
-    "main.8b10fcac.css.map": "/Joenaldobolo/myportfolio.io/static/css/main.8b10fcac.css.map",
-    "main.daf49a3c.js.map": "/Joenaldobolo/myportfolio.io/static/js/main.daf49a3c.js.map",
-    "453.77165de5.chunk.js.map": "/Joenaldobolo/myportfolio.io/static/js/453.77165de5.chunk.js.map"
+    "main.css": "/myportfolio.io/static/css/main.8b10fcac.css",
+    "main.js": "/myportfolio.io/static/js/main.a6f62dbc.js",
+    "static/js/453.77165de5.chunk.js": "/myportfolio.io/static/js/453.77165de5.chunk.js",
+    "static/media/web.png": "/myportfolio.io/static/media/web.5572d68403982130ea6a.png",
+    "static/media/bootstrap.png": "/myportfolio.io/static/media/bootstrap.4db6b405c36ee9e98d15.png",
+    "static/media/js.png": "/myportfolio.io/static/media/js.f7f5c440b14b73155eac.png",
+    "static/media/html5.png": "/myportfolio.io/static/media/html5.f209ef62cf88c3272c73.png",
+    "static/media/css.png": "/myportfolio.io/static/media/css.a3d2689f7e336d5d5359.png",
+    "static/media/profile.jpg": "/myportfolio.io/static/media/profile.6c845b802480ca4c2531.jpg",
+    "static/media/php.png": "/myportfolio.io/static/media/php.aed5cee0fe1995e37800.png",
+    "static/media/react.png": "/myportfolio.io/static/media/react.ecd6f7ba6828832928f6.png",
+    "index.html": "/myportfolio.io/index.html",
+    "main.8b10fcac.css.map": "/myportfolio.io/static/css/main.8b10fcac.css.map",
+    "main.a6f62dbc.js.map": "/myportfolio.io/static/js/main.a6f62dbc.js.map",
+    "453.77165de5.chunk.js.map": "/myportfolio.io/static/js/453.77165de5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b10fcac.css",
-    "static/js/main.daf49a3c.js"
+    "static/js/main.a6f62dbc.js"
   ]
 }
