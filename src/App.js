@@ -163,7 +163,7 @@ Welcome to Jhones Cafe, a delightful project that brings the warmth and joy of c
                 <Card.Body>
                     <Card.Title className='fs-1 fw-bold text-center text-lg-start'>Experience</Card.Title>
                     <Card.Text className='text-justify'>
-                        <p> During my On-the-Job Training (OJT) at [Company Name], I gained valuable insights into the operations of a professional environment and developed essential skills that complement my Information Technology studies at Central Philippines State University. My primary responsibility was data encoding, which involved accurate and efficient data entry and management.</p>
+                        <p> During my On-the-Job Training, I gained valuable insights into the operations of a professional environment and developed essential skills that complement my Information Technology studies at Central Philippines State University. My primary responsibility was data encoding, which involved accurate and efficient data entry and management.</p>
                         <br/>
                         <Card.Title className='fw-bold'>Key Responsibilities</Card.Title>
                         <ul>
